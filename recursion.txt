@@ -1,0 +1,1 @@
+Recursion allow us to run the function in the same function itself gives us better approach of solving problems that requires the same function running in a particular function as the sub function.
