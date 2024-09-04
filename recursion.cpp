@@ -1,3 +1,5 @@
+//Here we are calculating the factorial of a given number n using recursion
+
 #include <bits/stdc++.h>
 using namespace std;
 int fact(int n) {
